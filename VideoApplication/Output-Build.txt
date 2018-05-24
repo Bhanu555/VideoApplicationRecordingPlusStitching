@@ -1,0 +1,64 @@
+﻿1>------ Rebuild All started: Project: VideoApplication, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll". Access to the path 'c:\users\bhanushree.rajanna\source\repos\VideoA
+1>pplication\VideoApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll' is denied.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\Microsoft.CodeAnalysis.dll". Access to the path 'c:\users\bhanushree.rajanna\source\repos\VideoApplicat
+1>ion\VideoApplication\bin\roslyn\Microsoft.CodeAnalysis.dll' is denied.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll". Access to the path 'c:\users\bhanushree.rajanna\source\repos\V
+1>ideoApplication\VideoApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll' is denied.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll". Access to the path 'c:\users\bhanushree.rajanna\source\repos\
+1>VideoApplication\VideoApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll' is denied.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\System.IO.Compression.dll". Access to the path 'c:\users\bhanushree.rajanna\source\repos\VideoApplicati
+1>on\VideoApplication\bin\roslyn\System.IO.Compression.dll' is denied.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(
+1>4978,5): warning MSB3061: Unable to delete file "c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\VBCSCompiler.exe". Access to the path 'c:\users\bhanushree.rajanna\source\repos\VideoApplication\VideoA
+1>pplication\bin\roslyn\VBCSCompiler.exe' is denied.
+1>  VideoApplication -> C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\VideoApplication.d
+1>  ll
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>Collections.Immutable.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn\Sy
+1>stem.Collections.Immutable.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApp
+1>lication\bin\roslyn\System.Collections.Immutable.dll' is denied.
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>IO.FileSystem.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn\System.IO.
+1>FileSystem.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\ros
+1>lyn\System.IO.FileSystem.dll' is denied.
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>IO.FileSystem.Primitives.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn
+1>\System.IO.FileSystem.Primitives.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\VideoApplication\Vi
+1>deoApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll' is denied.
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>Reflection.Metadata.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn\Syst
+1>em.Reflection.Metadata.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplica
+1>tion\bin\roslyn\System.Reflection.Metadata.dll' is denied.
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>Security.Cryptography.Primitives.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bi
+1>n\roslyn\System.Security.Cryptography.Primitives.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\Vid
+1>eoApplication\VideoApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll' is denied.
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1
+1>.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props(17,5): warning MSB3021: Unable to copy file "
+1>C:\Users\bhanushree.rajanna\source\repos\VideoApplication\packages\Microsoft.Net.Compilers.2.4.0\build\..\tools\System.
+1>ValueTuple.dll" to "C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn\System.ValueT
+1>uple.dll". Access to the path 'C:\Users\bhanushree.rajanna\source\repos\VideoApplication\VideoApplication\bin\roslyn\Sy
+1>stem.ValueTuple.dll' is denied.
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
